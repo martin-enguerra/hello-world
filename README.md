@@ -1,5 +1,5 @@
 # hello-world
-Repository guide
+First Repository
 
 change no. 1
 change no. 2
